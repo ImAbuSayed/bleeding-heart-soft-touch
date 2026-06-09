@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bleeding-heart-soft-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Bleeding Heart Soft Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bleeding-heart-soft-touch/) |
+| **Get License** | [Official Music Licensing for Bleeding Heart Soft Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bleeding-heart-soft-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `91d664933f94769e3e0192c400ad3cfdc918c41c12acd280c18d58a187dd0b0e` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

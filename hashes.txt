@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bleeding Heart Soft Touch
+
+This log tracks the cryptographic history and versioning for the song **Bleeding Heart Soft Touch** (bleeding-heart-soft-touch).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T15:52:58.532511 | `v1` | `91d664933f94769e3e0192c400ad3cfdc918c41c12acd280c18d58a187dd0b0e` | `c0744755ea3b3b289c928084e85c372a8a01666c2a662bfbb36423941151fe3a` | `2026-06-09_bleeding-heart-soft-touch-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
