@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bleeding-heart-soft-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Bleeding Heart Soft Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bleeding-heart-soft-touch/) |
+| **Get License** | [Secure Licensing Rights for Bleeding Heart Soft Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bleeding-heart-soft-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> You got that midnight magic in your eyes
+> A slow-burn fire that never dies
+> I want to trace the shadows on your face
+> And get lost forever in this quiet place
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
